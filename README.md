@@ -23,6 +23,7 @@ Aquí tienes un vistazo a las tecnologías con las que trabajo regularmente:
 **Bases de datos**: <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a>
 
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwphs&layout=compact&langs_count=10" alt="Top Languages"> </a>
 
 <h2>☕ Conéctate conmigo</h2>
 
