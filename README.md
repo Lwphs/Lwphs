@@ -1,6 +1,8 @@
 ¡Hola! Soy **Arnau García** 👋
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle apasionado por [describir tus intereses, ej. la resolución de problemas, la seguridad informática, el desarrollo de proyectos de código abierto, etc.].
+![alt text](http://pbs.twimg.com/media/FQuDFQUXoAYp7Ej.png/to/img.png)
+
+Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle apasionado por las nuevas tecnologías, 
 
 
 📊 **Tecnologías y herramientas**
