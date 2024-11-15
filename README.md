@@ -1,4 +1,4 @@
-¡Hola! Soy [Arnau García] 👋
+¡Hola! Soy **Arnau García** 👋
 
 Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle apasionado por [describir tus intereses, ej. la resolución de problemas, la seguridad informática, el desarrollo de proyectos de código abierto, etc.].
 
