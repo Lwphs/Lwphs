@@ -1,6 +1,6 @@
 ¡Hola! Soy **Arnau García** 👋
 
-![alt text](http://pbs.twimg.com/media/FQuDFQUXoAYp7Ej.png/to/img.png)
+![Alt text](https://pbs.twimg.com/media/FQuDFQUXoAYp7Ej.png/to/img.jpg?raw=true "Jordans")
 
 Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle apasionado por las nuevas tecnologías, 
 
