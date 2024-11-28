@@ -3,7 +3,7 @@
 
 <img src="https://media1.tenor.com/m/Cdqmy1r5U6AAAAAd/monkey-typing.gif" alt="Gigachad" width="250">
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle actualmente aprendiendo herramientas para Backend Development. 
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM en La Salle actualmente aprendiendo herramientas para Backend Development. 
 
 ---
 
