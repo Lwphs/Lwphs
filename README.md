@@ -37,7 +37,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Sall
 
 <h2>☕ Conéctate conmigo</h2>
 
-<p> <a href="mailto:arnau.garcia@gracia.lasalle.cat"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/Lwphs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/Lwphs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://github.com/Lwphs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+<p> <a href="mailto:arnau.garcia@gracia.lasalle.cat"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/Lwphs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Lwphs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
 
 🔗 También puedes visitar mi link de JO-EL https://jo-el.es/user/Arnau_Garcia para más información.
 
