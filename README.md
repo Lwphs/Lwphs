@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Sall
 <h2>🚀 Tecnologías y herramientas</h2>
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/MySQL-73618F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Estadísticas de GitHub</h2>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Lwphs&show_icons=true&theme=radical" style="max-width: 45%; height: auto;"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lwphs&theme=radical" style="max-width: 45%; height: auto;"> 
