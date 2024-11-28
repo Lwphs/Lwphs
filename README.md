@@ -4,32 +4,30 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E0cWtnNG41ZXIxZDA1bzFyamZ4eG51N2h3d3BkaWF1eTZtMGgwNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CAYVZA5NRb529kKQUc/giphy.gif" alt="Gigachad" width="150">
 
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle apasionado por la programacion, 
+Bienvenido a mi perfil de GitHub. Soy un estudiante de primero de DAM en La Salle actualmente aprendiendo un poco de todo. 
 
 
-<h2>📊 Tecnologías y herramientas</h2>
+<h2>🚀 Tecnologías y herramientas</h2>
 
-Aquí tienes un vistazo a las tecnologías con las que trabajo regularmente:
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/MySQL-73618F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> </p>
 
-**Lenguajes de programación**: <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
+<h2>📊 GitHub Stats</h2>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Lwphs&show_icons=true&theme=radical" style="max-width: 45%; height: auto;"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lwphs&theme=radical" style="max-width: 45%; height: auto;"> 
+</div> 
+<br>
+<div align="center"> 
+  Grafica de contribución<br>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lwphs&theme=radical" alt="Contribution Graph" width="600px"> 
+</div>
 
-**Lenguajes de marcas**:  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a>   </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
-
-**Herramientas de desarrollo**: <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a>
-
-**Bases de datos**: <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a>
-
-<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwphs&layout=compact&langs_count=10" alt="Top Languages"> </a>
 
 <h2>☕ Conéctate conmigo</h2>
 
-💌 Puedes contactarme a través de arnau.garcia@gracia.lasalle.cat.
+<p> <a href="mailto:arnau.garcia@gracia.lasalle.cat"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/Lwphs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/Lwphs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://github.com/Lwph"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
 
-🔗 Visita mi perfil de JO-EL https://jo-el.es/user/Arnau_Garcia para más información.
+🔗 También puedes visitar mi link de JO-EL https://jo-el.es/user/Arnau_Garcia para más información.
 
-Gracias por visitar mi perfil. ¡Nos vemos en los commits! 🚀
+Gracias por visitar mi perfil. ¡Nos vemos en los commits! 
 </div>
