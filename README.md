@@ -17,7 +17,6 @@
 <h2>📊 GitHub Statistics</h2>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Lwphs&show_icons=true&theme=radical" style="max-width: 45%; height: auto;"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lwphs&theme=radical" style="max-width: 45%; height: auto;"> 
 </div> 
 <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lwphs&theme=radical" alt="Contribution Graph" width="600px"> 
