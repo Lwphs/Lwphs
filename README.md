@@ -26,13 +26,13 @@
 
 ### 📚 <h2>Projects</h2>
 
- **Project 1:** [JavaCar](https://github.com/yourusername/project1)  
+ **Project 1:** [JavaCar](https://github.com/Lwphs/JavaCar)  
   School project done with Java to create CLI app for car renting.
 
- **Project 2:** [League of Legends Page](https://github.com/yourusername/project2)  
+ **Project 2:** [League of Legends Page](https://github.com/Lwphs/League_of_Legends_Page)  
   Frontend project to create a League of Legends page, using HTML, CSS and Javascript.
 
- **Project 3:** [Text Editor](https://github.com/yourusername/project3)  
+ **Project 3:** [Text Editor](https://github.com/Lwphs/TextEditor)  
   Personal project to mess around and create a Java GUI text editor.
 
 
