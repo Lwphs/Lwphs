@@ -1,3 +1,4 @@
+![github-header](https://github.com/user-attachments/assets/e05a1170-a29a-4bea-8acc-b67ac07f2a8e)
 <div align=center>
 <h1>I'm Arnau García 👋</h1>
 
