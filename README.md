@@ -4,13 +4,14 @@
 <img src="https://media1.tenor.com/m/Cdqmy1r5U6AAAAAd/monkey-typing.gif" alt="Gigachad" width="250">
 
 <div>
-  Welcome to my GitHub profile. I am a Multiplatform Application Development student at La Salle (Barcelona), and I have been exploring the world of programming for a year. Currently, I am focused on learning tools and technologies for Backend development, combining theory and practice in my projects.
+I am a 2nd year Multiplatform Application Development student, based in Barcelona.  
+Currently working as an Intern at [Sigma](https://sigmaaie.org)
 </div>
 
 ---
 
 <h2>🚀 Technologies and Tools</h2>
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/MySQL-73618F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&" alt="TS"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> </p>
 
 ---
 
