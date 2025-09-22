@@ -1,10 +1,5 @@
 <div align=center>
 <img width="1700" height="300" alt="github-header-banner" src="https://github.com/user-attachments/assets/70dff112-55bb-43e4-96a9-dc54f94bdd2b" />
-
-  <div>
-    <img src="https://media1.tenor.com/m/Cdqmy1r5U6AAAAAd/monkey-typing.gif" alt="Gigachad" width="250">
-  </div>
-  
   <br>
   <div>
     <p>I am a 2nd year Multiplatform Application Development student, based in Barcelona.</p>
@@ -12,6 +7,11 @@
   </div>
 
   <h2>🚀 Languages and Technologies</h2>
+  
+  <div>
+    <img src="https://media1.tenor.com/m/Cdqmy1r5U6AAAAAd/monkey-typing.gif" alt="Gigachad" width="250">
+  </div>
+  
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
    <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&" alt="TS"> 
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> 
