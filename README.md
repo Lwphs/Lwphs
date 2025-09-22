@@ -1,6 +1,6 @@
 <div align=center>
-  <h1>I'm Arnau García 👋</h1>
-  
+<img width="1700" height="300" alt="github-header-banner" src="https://github.com/user-attachments/assets/70dff112-55bb-43e4-96a9-dc54f94bdd2b" />
+
   <div>
     <img src="https://media1.tenor.com/m/Cdqmy1r5U6AAAAAd/monkey-typing.gif" alt="Gigachad" width="250">
   </div>
