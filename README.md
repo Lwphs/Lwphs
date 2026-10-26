@@ -25,4 +25,3 @@ Professional Software Developer. I completed my Higher Vocational Training in Cr
 ## How to Reach Me
 
 - **LinkedIn:** [Arnau García](https://www.linkedin.com/in/arnau-garcia-dev/)
-- **Email:** arnau.garcia.work@gmail.com
